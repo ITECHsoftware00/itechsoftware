@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, expe
 - **Interests:** software development
 - **Contact:** +380951594897
   - Email: ITECHsoftware60@gmail.com
-  - LinkedIn: [LinkedIn Profile Link]
+  - LinkedIn: https://www.linkedin.com/in/abdul-halim-6a670035b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   - Twitter: @itechsoftware0
 
 ## Projects
